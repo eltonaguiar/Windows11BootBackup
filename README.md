@@ -1,3 +1,9 @@
+
+DEPRECATED
+
+REFER TO THIS ==> https://github.com/eltonaguiar/Windows11BootBackupv2
+
+
 # Windows11BootBackup
 Windows Boot backup script.. after being let down by startup repair, was curious for a quick backup method as the EFI/recovery partition are small, yet a full restore of c drive takes longer..
 I havent actually tested this script to see if it works.. ideally having a backup image is ideal.
