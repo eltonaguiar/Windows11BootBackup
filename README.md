@@ -10,3 +10,6 @@ Windows 11 Startup Recovery wasnt enough to restore my windows.. it just gave me
 I didnt try to use the "Recovery Drive" but from what I saw , you have to reinstall windows..
 
 I have a ton of software/games.. i rather not relink them to my desktop and stuff like that.. so images are ideal in this case.
+
+
+The idea is get into the "recovery environment screen"  and run a single command prompt command and be back in business, without waiting a long time for repair.. I feel like if everyone with busted Windows boot, took an image of the busted drive, then compared to a working image and ran a comparison we would eventually come with a methdology making Windows Startup issues a thing of the past (aside from failing hardware stuff).
